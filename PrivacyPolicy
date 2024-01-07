@@ -1,0 +1,1 @@
+GooseBot does not store any data long term, and only accesses the content of messages in the brief time while checking the content of the message for the trigger word.
